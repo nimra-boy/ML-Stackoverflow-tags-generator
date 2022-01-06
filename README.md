@@ -44,4 +44,4 @@ Then just perform a *Run all* to run the project.
 
 ## API
 ***
-An API based on the XGBoost model is available in a second Git repostory at: 
+An API based on the XGBoost model is available in a second Git repostory at: https://github.com/nimra-boy/API_Tags_Generator/
